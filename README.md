@@ -1,6 +1,6 @@
 # [Articles](https://github.com/HanZawNyein/articles)
 <hr />
 
-# [Python]()
+# [Python](https://github.com/HanZawNyein/articles/tree/python)
 <hr />
 
